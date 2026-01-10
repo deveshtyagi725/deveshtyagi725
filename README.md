@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devesh Tyagi</h1>
 <h3 align="center">📚 Learning & Building with DSA, Full Stack, DevOps & Cloud-Computing</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deveshtyagi725&label=Profile%20views&color=0e75b6&style=flat" alt="deveshtyagi725" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deveshtyagi725" alt="deveshtyagi725" /></a> </p>
 
