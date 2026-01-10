@@ -34,4 +34,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deveshtyagi725&show_icons=true&locale=en&layout=compact" alt="deveshtyagi725" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deveshtyagi725&show_icons=true&locale=en" alt="deveshtyagi725" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deveshtyagi725&show_icons=true&locale=en" alt="https://github.com/deveshtyagi725" /></p>
