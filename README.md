@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Devesh Tyagi</h1>
-<h3 align="center">🚀 B.Tech CSE Student | Full Stack Developer | DevOps & Cloud Enthusiast</h3>
+<h3 align="center">🚀 B.Tech CSE Student | Full Stack Developer | DevOps, Cloud & AI Enthusiast</h3>
 
 ---
 
 ### 👨‍💻 About Me
 - 🔭 Currently building **Campus Connect**  
-- 🌱 Learning **Backend Development, DevOps & Cloud (AWS + Azure)**  
-- 👯 Open to collaborate on **Multi-Cloud & DevOps Projects**  
+- 🌱 Learning **Backend Development, DevOps, Cloud & AI**  
+- 👯 Open to collaborate on **Multi-Cloud, DevOps & AI Projects**  
+- 🤖 Exploring **AI-powered applications & automation**  
 - 💡 Passionate about solving real-world problems using technology  
 - ⚡ Fun fact: *I believe consistency beats talent*  
 
@@ -44,6 +45,11 @@
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform" />
 </p>
 
+#### 🤖 AI / Data
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
 #### 🗄️ Databases & Tools
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,postman,linux" />
@@ -62,6 +68,7 @@
 ### 🚀 Current Focus
 - 🔹 Building scalable backend systems  
 - 🔹 Learning CI/CD pipelines (Jenkins + AWS)  
+- 🔹 Exploring AI integrations in web apps  
 - 🔹 Preparing for SDE & DevOps roles  
 
 ---
