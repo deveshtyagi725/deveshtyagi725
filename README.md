@@ -1,80 +1,112 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=Devesh%20Tyagi&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5FF,50:0072FF,100:6A00FF&height=250&section=header&text=Devesh%20Tyagi&fontSize=80&fontColor=ffffff&animation=twinkling"/>
 
-# 👋 Hi, I'm Devesh Tyagi
+<br>
 
-<h3>
-🚀 Aspiring AI Engineer | Full Stack Developer | Cloud & DevOps Enthusiast
-</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Aspiring+AI+Engineer;Full+Stack+Developer;Generative+AI+Enthusiast;Cloud+%26+DevOps+Explorer;Building+Intelligent+Applications"/>
 
-<p>
-Building intelligent applications using
-<b>AI, Generative AI, Full Stack Development & Cloud Technologies</b>
-</p>
 
-<img src="https://komarev.com/ghpvc/?username=deveshtyagi725&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=deveshtyagi725&style=for-the-badge&color=blue"/>
 
 </div>
 
 
----
-
 # 👨‍💻 About Me
 
-```javascript
-const devesh = {
-    education: "B.Tech Computer Science Engineering",
+```python
+class DeveshTyagi:
 
-    role: [
-        "Aspiring AI Engineer",
-        "Full Stack Developer",
-        "Cloud & DevOps Enthusiast"
-    ],
+    def __init__(self):
+        self.name = "Devesh Tyagi"
+        self.education = "B.Tech Computer Science Engineering"
 
-    interests: [
-        "Generative AI",
-        "LLM Applications",
-        "Backend Systems",
-        "Cloud Automation",
-        "Machine Learning"
-    ],
+        self.role = [
+            "Aspiring AI Engineer",
+            "Full Stack Developer",
+            "Cloud & DevOps Engineer"
+        ]
 
-    currentlyLearning: [
-        "AI Agents",
-        "RAG Applications",
-        "System Design",
-        "Advanced Backend Architecture"
-    ],
+        self.building = [
+            "AI Powered Applications",
+            "Scalable Backend Systems",
+            "Cloud Native Solutions"
+        ]
 
-    lookingFor: [
-        "AI Internships",
-        "SDE Internships",
-        "Full-Time Software Engineering Roles"
-    ]
-};
+        self.exploring = [
+            "Generative AI",
+            "LLM Applications",
+            "AI Agents",
+            "RAG Systems",
+            "Machine Learning"
+        ]
+
+        self.open_for = [
+            "AI Engineer Intern",
+            "Software Engineer Intern",
+            "Full Stack Developer Intern",
+            "Graduate Software Engineer Roles"
+        ]
+
+    def mindset(self):
+        return "Build → Learn → Improve → Repeat"
 ```
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Engineering Portfolio
 
 
-## 🤖 InterviewAI - AI Powered Interview Preparation Platform
-
-> An intelligent AI-based interview preparation platform that helps candidates practice interviews and improve technical skills.
-
-### Features:
-
-✨ AI-generated interview questions  
-✨ Resume-based interview preparation  
-✨ AI feedback & performance analysis  
-✨ Real-time interview simulation  
-✨ Secure authentication  
-✨ Automated interview reports  
+## 🤖 InterviewAI
+### AI Powered Interview Preparation Platform
 
 
-**Tech Stack**
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
+An intelligent interview preparation platform that uses Generative AI to simulate real technical interviews and provide personalized feedback.
+
+
+### Core Features
+
+⚡ AI Interview Generation  
+📄 Resume-Based Question Generation  
+🧠 AI Performance Evaluation  
+🎯 Personalized Preparation Roadmap  
+🔐 Authentication System  
+📊 Automated Interview Reports  
+
+
+### Architecture
+
+```
+                 User
+
+                  |
+
+              React Frontend
+
+                  |
+
+              Node API Layer
+
+                  |
+
+          AI Processing Engine
+
+                  |
+
+        Gemini / AI Model API
+
+                  |
+
+              MongoDB Database
+```
+
+
+### Tech Stack
 
 ```
 React.js
@@ -84,207 +116,252 @@ MongoDB
 JWT
 Gemini API
 Puppeteer
-AI APIs
+REST APIs
 ```
-
-🔗 Project:
-https://github.com/deveshtyagi725
-
 
 ---
 
-## ☁️ Multi-Cloud Infrastructure Automation using Terraform
-
-> Automated cloud infrastructure deployment across AWS and Azure using Infrastructure as Code.
+# ☁️ Multi Cloud Infrastructure Automation
 
 
-Features:
-
-✔ AWS EC2 Automation  
-✔ Azure Resource Deployment  
-✔ Terraform Modules  
-✔ Infrastructure Management  
-✔ Cloud Automation  
+## Terraform Based AWS + Azure Deployment
 
 
-Tech:
+Infrastructure automation project implementing cloud resources using Infrastructure as Code.
+
+
+### Implemented:
+
+✅ AWS EC2 Provisioning  
+✅ Azure Resource Deployment  
+✅ Terraform Modules  
+✅ Cloud Automation  
+✅ CI/CD Integration  
+
+
+Architecture:
 
 ```
+Developer
+
+    |
+
+GitHub Repository
+
+    |
+
+CI/CD Pipeline
+
+    |
+
 Terraform
-AWS
-Azure
-Linux
-Infrastructure as Code
-```
 
-🔗 Repository:
-https://github.com/deveshtyagi725/JOVAC-MultiCloud-Infrastructure-automation-with-terraform-like-AWS
+    |
 
+---------------------
 
----
+AWS             Azure
 
-# 🌐 Portfolio
+EC2             VM
 
-🚀 Personal Portfolio:
+S3              Storage
 
-https://my-portfolio-kohl-one-63.vercel.app/
-
-
----
-
-# 🛠️ Technical Skills
-
-
-## 👨‍💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js,typescript" />
-</p>
-
-
----
-
-## 🌐 Full Stack Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,nextjs" />
-</p>
-
-
----
-
-## 🤖 AI / Machine Learning / GenAI
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
+IAM             Resources
 
 ```
-Machine Learning
-Generative AI
-LLM Applications
-Prompt Engineering
-AI APIs
-RAG Concepts
-AI Agents
-Data Processing
-```
-
 
 ---
 
-## ☁️ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,githubactions" />
-</p>
-
-
-```
-AWS EC2
-AWS S3
-IAM
-CI/CD Pipelines
-Docker Containers
-Terraform
-Ansible
-Linux
-GitHub Actions
-```
-
-
----
-
-## 🗄️ Database & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,git,github,postman,linux" />
-</p>
-
-
----
-
-# 🧠 AI Engineering Journey
-
-
-```
-Machine Learning
-        |
-        ↓
-Deep Learning
-        |
-        ↓
-Generative AI
-        |
-        ↓
-LLM Applications
-        |
-        ↓
-AI Agents & Automation
-```
-
-
----
-
-# 📊 GitHub Analytics
+# 🧠 AI Engineering Skills
 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deveshtyagi725&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM_Applications-7B1FA2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-1565C0?style=for-the-badge"/>
+
+
+</div>
+
+
+Knowledge:
+
+```
+Machine Learning
+Deep Learning
+Prompt Engineering
+LLM APIs
+AI Automation
+Vector Databases
+Model Integration
+```
+
+---
+
+# 💻 Development Stack
+
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,python,c,js,ts"/>
+
+</p>
+
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+
+</p>
+
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
+
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,firebase"/>
+
+</p>
+
+
+## Cloud / DevOps
+
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,githubactions"/>
+
+</p>
+
+
+---
+
+# ⚙️ Software Engineering Practices
+
+
+```
+✔ REST API Design
+
+✔ Authentication & Authorization
+
+✔ Database Design
+
+✔ Cloud Deployment
+
+✔ CI/CD Pipelines
+
+✔ Infrastructure as Code
+
+✔ Agile Development
+
+✔ Git Workflow
+
+✔ System Design Fundamentals
+```
+
+---
+
+# 🏆 Certifications
+
+
+<div align="center">
+
+| Certification | Platform |
+|-|-|
+| Oracle Cloud AI Foundations Associate | Oracle |
+| Cybersecurity Analyst Simulation | Tata Group |
+| CCNA Introduction to Networks | Cisco |
+| MongoDB Developer Modules | MongoDB |
+| NPTEL Certifications | IIT Courses |
+
+</div>
+
+
+---
+
+# 📊 GitHub Performance
+
+
+<div align="center">
+
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=deveshtyagi725&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=deveshtyagi725&theme=tokyonight&hide_border=true"/>
+
+
+</div>
+
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deveshtyagi725&theme=tokyonight&hide_border=true"/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deveshtyagi725&theme=tokyo-night"/>
 
 </div>
 
 
 ---
 
-# 🏆 Achievements & Certifications
-
-🏅 Oracle Cloud Infrastructure AI Foundations Associate
-
-🏅 Tata Cybersecurity Analyst Simulation
-
-🏅 CCNA Introduction to Networks
-
-🏅 MongoDB Developer Certifications
-
-🏅 Multiple NPTEL Certifications
+# 🎯 Current Mission
 
 
----
+```
+Building AI First Applications
 
-# 📚 Currently Working On
++
 
-🚀 AI-powered applications
+Mastering Backend Engineering
 
-🤖 Generative AI & LLM integration
++
 
-⚡ Scalable backend architecture
+Deploying Cloud Native Systems
 
-☁️ Cloud-native applications
++
 
-🔄 DevOps automation pipelines
-
+Becoming Production Ready Engineer
+```
 
 ---
 
-# 🤝 Open To Opportunities
+# 🤝 Open For
 
 
 <div align="center">
 
 
-🚀 AI Engineer Intern Roles
+🤖 AI Engineer Intern
 
-💻 Software Development Intern Roles
+<br>
 
-🌐 Full Stack Developer Roles
+💻 Software Development Intern
 
-☁️ Cloud / DevOps Intern Roles
+<br>
+
+🌐 Full Stack Developer Intern
+
+<br>
+
+☁️ Cloud / DevOps Intern
 
 
 </div>
@@ -292,32 +369,42 @@ AI Agents & Automation
 
 ---
 
-# 📫 Connect With Me
+# 🌐 Connect
 
 
-<p align="center">
+<div align="center">
+
+
+<a href="https://www.linkedin.com/in/deveshtyagi25">
+
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
 
 <a href="mailto:tyagidevesh809@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+
 </a>
 
-<a href="https://www.linkedin.com/in/deveshtyagi25/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
 
 <a href="https://leetcode.com/u/devesh_tyagi/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+
 </a>
 
-</p>
+
+</div>
 
 
 ---
 
 <div align="center">
 
-### ⭐ Code. Build. Innovate. Repeat.
+## ⚡ "Engineering Intelligence Into Software"
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F5FF&height=120&section=footer"/>
 
 </div>
